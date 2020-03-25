@@ -13,7 +13,7 @@ Exercise found in Chapter 2 of [Eloquent JavaScript](https://eloquentjavascript.
     #######
 
 ## Author
-- - -
+
 ### Aaron Long
 
 - [GitHub Profile](https://github.com/aaronlng/)
